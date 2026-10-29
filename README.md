@@ -1,3 +1,13 @@
+<!-- multilingual-project-guide:start -->
+<p align="center">
+  <strong>Multilingual project guide</strong><br>
+  <a href="PROJECT_GUIDE.md#简体中文">简体中文</a> ·
+  <a href="PROJECT_GUIDE.md#english">English</a> ·
+  <a href="PROJECT_GUIDE.md#日本語">日本語</a> ·
+  <a href="PROJECT_GUIDE.md#ภาษาไทย">ภาษาไทย</a>
+</p>
+<!-- multilingual-project-guide:end -->
+
 # CardDock
 
 把 4G 模块插上安卓手机，用手机当它的**电话终端**、**短信终端**和**配置终端**。
